@@ -1,0 +1,21 @@
+path: D:/A_Codes/datasets/multispectral_datasets/bottle500-SS
+train: train/images
+val: valid/images
+test: test/images
+
+# Number of multispectral image channels
+channels: 1
+# Task
+task: semantic  # task type
+
+# Class-2 names
+nc: 5
+names:
+  0: background
+  1: metal
+  2: glass
+  3: plastic
+  4: paper
+
+
+

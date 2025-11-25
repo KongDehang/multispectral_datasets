@@ -1,0 +1,18 @@
+path: D:/A_Codes/datasets/multispectral_datasets/bottle500-IS
+train: train/images
+val: valid/images
+test: test/images
+
+# Number of multispectral image channels
+channels: 1
+
+# Class-2 names
+nc: 4
+names:
+  0: metal
+  1: glass
+  2: plastic
+  3: paper
+
+
+
