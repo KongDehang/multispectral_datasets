@@ -1,3 +1,5 @@
+[中文](README.zh-CN.md)
+
 # multispectral_datasets
 This repository contains processed multispectral datasets designed for various computer vision tasks including Object Detection, Semantic Segmentation, and Instance Segmentation. The datasets are focused on bottle and container classification based on material and shape.
 
